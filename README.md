@@ -1,1 +1,3 @@
-# website-5th
+# 5th Period
+
+This is the class website for 5th period.
